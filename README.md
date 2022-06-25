@@ -1,6 +1,6 @@
 •	Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
-For this project, I was given some code related to the neural network as well as some basic functions to work with Treasure Maze and Game Experience classes. For my part of the code, I had to write the algorithm for the training that will be trained the network to be able to identify the path for the agent to the goal. The code that I had created is shown below:
+  For this project, I was given some code related to the neural network as well as some basic functions to work with Treasure Maze and Game Experience classes. For my part of the code, I had to write the algorithm for the training that will be trained the network to be able to identify the path for the agent to the goal. The code that I had created is shown below:
 
   for epoch in range(n_epoch):
         print('\n\n\n')
